@@ -1,0 +1,23 @@
+https://learnopengl.com/ -- топовый интернет-учебник для изучения OpenGL. Хотя весь код и написан на C++, команды в PyOpenGL такие же (только в Python нет указателей (pointers)).
+
+https://habr.com/ru/post/310790/ -- перевод статей с learnopengl.com на русский язык. Не знаю, насколько он хорош.
+
+https://nicolbolas.github.io/oldtut/ -- еще один интернет-учебник по OpenGL. В нем тоже используется язык С++. Многие моменты расписаны подробнее, но в данном случае подробнее =/= проще. Может, кому-то он понравится больше, чем learnopengl.com.
+
+http://pyopengl.sourceforge.net/index.html -- официальный сайт PyOpenGL.
+
+https://www.youtube.com/playlist?list=PL1P11yPQAo7opIg8r-4BMfh1Z_dCOfI0y -- плейлист с канала AtiByte, посвященный PyOpenGL. Сначала для создания окна и обработки нажатий используется GLFW, а с 8-го видео используется связка PyOpenGL + Pygame. Под каждым видео есть ссылка на код из урока. В целом темы видео идут по программе учебника learnopengl.com.
+
+https://www.youtube.com/watch?v=R4n4NyDG2hI&list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD -- плейлист с канала sentdex о создании простенькой 3D игры на Pygame с использованием PyOpenGL. Используется устаревший fixed function pipeline (т.е. без шейдеров)!
+
+https://www.haroldserrano.com/blog/tag/OpenGL -- в учебнике на learnopengl.com я не мог понять урок "Hello Triangle" :) , потому что информация там всё наваливается и наваливается на тебя без особого обобщения. Статьи из блога по ссылке помогли мне понять что, за чем и почему. У этого автора много статей, в которых ОБЩИМИ словами рассказывается, как работает OpenGL.
+
+https://www.khronos.org/opengl/wiki/ -- официальная вики об OpenGL. Удобно подсматривать непонятные термины.
+
+Ginsburg D., Purnomo B., OpenGL ES 3.0 Programming Guide, 2014 -- отличная книга по OpenGL. Удобно пользоваться ею как справочником по разным вопросам, связанным с OpenGL.
+
+https://geometrian.com/programming/tutorials/graphicspipeline/opengl_1_overview.php -- неплохая статья про графический конвейер OpenGL.
+
+https://www.khronos.org/registry/OpenGL/specs/gl/glspec46.core.pdf -- посмотреть, как выглядит OpenGL-документ версии 4.6. Этот документ обновляется компанией Khronos Group.
+
+http://www.lki.ru/text.php?id=3859 -- немного об истории и конкурентах OpenGL.
